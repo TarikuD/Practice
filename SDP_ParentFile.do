@@ -20,14 +20,15 @@ numlabel, add
 *******************************************************************************
 
 * Set local macros for country and round
-global country 
+global country “ET”
 local country "$country"
 
-global round 
+global round “2020”
 local round "$round"
 
-global CCRX "BFR5"
-local CCRX "$CCRX"
+global CCRX "ET2020"
+local CCRX "$CCRX" 
+
 
 * Set directory forcountry and round 
 global datadir 
