@@ -20,7 +20,7 @@ numlabel, add
 *******************************************************************************
 
 * Set local macros for country and round
-global country 
+global country "NG"
 local country "$country"
 
 global round 
