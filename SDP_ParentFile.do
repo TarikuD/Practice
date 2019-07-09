@@ -49,8 +49,6 @@ local c_today= "`today'"
 global date=subinstr("`c_today'", " ", "",.)
 local todaystata=clock("`today'", "DMY")
 
-* Define the data cleaning do file name
-local cleaningdofile 
 
 *Zip all of the old versions of the datasets and the excel spreadsheets.  
 
